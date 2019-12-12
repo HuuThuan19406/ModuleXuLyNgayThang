@@ -1,0 +1,7 @@
+[core]
+	repositoryformatversion = 0
+	filemode = false
+	logallrefupdates = true
+[remote "origin"]
+	url = https://github.com/HuuThuan19406/ModuleXuLyNgayThang.git
+	fetch = +refs/heads/*:refs/remotes/origin/*
